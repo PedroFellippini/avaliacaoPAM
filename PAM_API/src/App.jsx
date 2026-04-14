@@ -105,7 +105,7 @@ export default function App() {
 
   return (
     <div className="p-6 max-w-2xl mx-auto">
-      <h1 className="text-2xl font-semibold mb-5">Catálogo de Contrabaixos</h1>
+      <h1 className="text-2xl font-semibold mb-5"><u>Catálogo de Contrabaixos</u></h1>
 
       {/* Campo de busca */}
       <p className="text-xs font-medium text-gray-400 uppercase tracking-wider mb-2">Buscar instrumento</p>
