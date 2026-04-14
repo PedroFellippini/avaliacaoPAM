@@ -182,3 +182,7 @@
     border-right-color: var(--border);
   }
 }
+
+u {
+  text-decoration: underline wavy red;
+}
