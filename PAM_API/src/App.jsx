@@ -178,7 +178,6 @@ export default function App() {
               <p className="text-sm text-gray-500 mt-1">
                 {baixo.modelo} · {baixo.numCordas} cordas · {baixo.paisFab} · {baixo.ano}
               </p>
-              <hr/>
             </div>
           ))}
         </div>
